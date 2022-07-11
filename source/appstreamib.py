@@ -375,7 +375,7 @@ class MyApplication(pygubu.TkApplication):
     
 if __name__ == '__main__':
     root = tk.Tk()
-    root.title('AppStream 2.0 Linux Image Assistant - v2.0')
+    root.title('AppStream 2.0 Linux Image Assistant')
     root.columnconfigure(0, weight=1)
     root.rowconfigure(0, weight=1)
     app = MyApplication(root)

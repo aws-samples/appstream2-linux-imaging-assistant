@@ -167,7 +167,7 @@ class MyApplication(pygubu.TkApplication):
 
     def on_about_clicked(self):
         """Display About App Information"""
-        webbrowser.open('https://www.amazon.com/', new=1)
+        webbrowser.open('https://github.com/aws-samples/appstream2-linux-imaging-assistant', new=1)
 
     # Main Window
     def on_buttonProcs_clicked(self):

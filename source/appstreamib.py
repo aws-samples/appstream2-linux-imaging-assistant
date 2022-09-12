@@ -167,7 +167,7 @@ class MyApplication(pygubu.TkApplication):
 
     def on_about_clicked(self):
         """Display About App Information"""
-        webbrowser.open('https://www.amazon.com/', new=1) #<<< THIS NEEDS UPDATED WITH PUB REPO
+        webbrowser.open('https://www.amazon.com/', new=1)
 
     # Main Window
     def on_buttonProcs_clicked(self):

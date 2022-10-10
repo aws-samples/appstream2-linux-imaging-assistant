@@ -1,3 +1,7 @@
+## Generally Available Update
+
+On 10/7/22, Amazon AppStream 2.0 launched a [service-side Imaging Assistant](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/). This repository will remain public for learning and reusability purposes.
+
 ## Amazon AppStream 2.0 Linux Imaging Assistant
 
 Amazon AppStream 2.0 provides secure, reliable and scalable access to applications and non-persistent desktops from any location. At re:Invent 2021, AppStream announced the availability of Amazon Linux 2 images. With this release, users can now stream Linux applications and desktops. These images use a new set of, on instance, CLI tools to create an application catalog and capture images. This project provides a graphical experience similar to Windows based AppStream images that sits on top of the provided CLI.
